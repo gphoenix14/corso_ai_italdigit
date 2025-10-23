@@ -1,0 +1,12 @@
+Report di classificazione:
+               precision    recall  f1-score   support
+
+     class_0       0.93      1.00      0.97        14
+     class_1       0.82      0.64      0.72        14
+     class_2       0.50      0.62      0.56         8
+
+    accuracy                           0.78        36
+   macro avg       0.75      0.76      0.75        36
+weighted avg       0.79      0.78      0.78        36
+
+PS C:\Lab\Laboratorio italdigit corso AI> 
